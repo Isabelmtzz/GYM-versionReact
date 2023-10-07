@@ -1,9 +1,9 @@
 import home from '../assets/img/home-img.png'
 import logo1 from '../assets/img/logo1.png'
-import logo2 from"../assets/img/logo2.png"
-import logo3 from"../assets/img/logo3.png"
-import logo4 from"../assets/img/logo4.png"
-
+import logo2 from "../assets/img/logo2.png"
+import logo3 from "../assets/img/logo3.png"
+import logo4 from "../assets/img/logo4.png"
+import calculateimg from '../assets/img/calculate-img.png'
 
 export default function Home(){
     return(
@@ -70,7 +70,7 @@ export default function Home(){
                         </form>
                        <p className="calculate__message" id="calculate-message"></p>
                     </div>
-                    <img src="./../assets/img/calculate-img.png" alt="calculate image" className="calculate__img"/>
+                    <img src={calculateimg} alt="calculate image" className="calculate__img"/>
                 </div>
             </section>
         </main>
