@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.calculate-message{
+  margin-top: 10px;
+  color: hsl(79, 72%, 55%);
+}
+
+.calculate-message-error{
+  margin-top: 10px;
+  color: rgb(214, 48, 48);
+}
+

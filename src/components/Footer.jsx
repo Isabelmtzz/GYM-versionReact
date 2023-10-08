@@ -75,6 +75,24 @@ export default function Footer (){
                     </div> 
                 </div>
             </div>
+            <div className="container">
+                <div className="footer__group">
+                    <ul className="footer__social">
+                        <a className="footer__social-link" href="https://api.whatsapp.com/send?phone=5218120150275&text=Ta%20buena%20%20la%20pagina%20%F0%9F%91%8D" target="_blank">
+                            <img className="img__social" src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/>
+                        </a>
+
+                        <a className="footer__social-link" href="https://www.tiktok.com/@isaaa_kim" target="_blank">
+                            <img className="img__social" src="https://img.icons8.com/color/48/FA5252/tiktok--v1.png"/>
+                        </a>
+                        <a className="footer__social-link" href="https://www.instagram.com/isaaa_kim" target="_blank">
+                            <img className="img__social" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+                        </a>
+                    </ul>
+
+                    <span className="footer__copy">&#169; Copyright isaaaKim. Todos los derechos reservados</span>
+                </div>
+            </div>
         </footer>
     )
 }

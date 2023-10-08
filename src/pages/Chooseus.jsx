@@ -6,7 +6,7 @@ export default function ChooseUs(){
                 <div className="choose__overflow">
                     <div className="choose__container container grid">
 
-                        <div clFass="choose__content">
+                        <div className="choose__content">
 
                         <div className="section__data">
                             <h2 className="section__subtitle">Best Reason</h2>

@@ -17,7 +17,7 @@ export default function Programs (){
                     </div>
 
                     <div className="program__container grid">
-                        <articule className="program__card">
+                        <article className="program__card">
                             <div className="program__shape">
                                 <img src={program1} alt="program image" className="program__img"/>
                             </div>
@@ -32,8 +32,8 @@ export default function Programs (){
                             <a href="#" className="program__button">
                                 <i className="ri-arrow-right-line"></i>
                             </a>
-                        </articule>
-                        <articule className="program__card">
+                        </article>
+                        <article className="program__card">
                             <div className="program__shape">
                                 <img src={program2} alt="program image" className="program__img"/>
                             </div>
@@ -48,9 +48,9 @@ export default function Programs (){
                             <a href="#" className="program__button">
                                 <i className="ri-arrow-right-line"></i>
                             </a>
-                        </articule>
+                        </article>
 
-                        <articule className="program__card">
+                        <article className="program__card">
                             <div className="program__shape">
                                 <img src={program3} alt="program image" className="program__img"/>
                             </div>
@@ -65,9 +65,9 @@ export default function Programs (){
                             <a href="#" className="program__button">
                                 <i className="ri-arrow-right-line"></i>
                             </a>
-                        </articule>
+                        </article>
 
-                        <articule className="program__card">
+                        <article className="program__card">
                             <div className="program__shape">
                                 <img src={program4} alt="program image" className="program__img"/>
                             </div>
@@ -82,7 +82,7 @@ export default function Programs (){
                             <a href="#" className="program__button">
                                 <i className="ri-arrow-right-line"></i>
                             </a>
-                        </articule>
+                        </article>
                         
                     </div>
                 </div>

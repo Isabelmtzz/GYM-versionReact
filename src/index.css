@@ -8,6 +8,7 @@
   margin: 0 ;
 }
 
+
 /*=============== VARIABLES CSS ===============*/
 :root {
   margin: 0 !important;
@@ -150,9 +151,6 @@ img {
   gap: 1.5rem;
 }
 
-body{
-  width: 100vw;
-}
 .main {
   overflow: hidden; /* For animation ScrollReveal */
 }
